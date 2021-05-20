@@ -1,1 +1,1 @@
-# homebrew-joelhainley-core
+# homebrew-catacomb
